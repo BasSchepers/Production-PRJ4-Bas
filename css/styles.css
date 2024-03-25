@@ -6,22 +6,22 @@
 /* Styles for the body */
 
 p {
-	font-family: 'Times New Roman', Times, serif, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #ff0000;
+	font-family: '"Open Sans"; 
+	color: #ff1000;
 	background-color: #0c1314;
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #eff292;
+    background-color: #bdaa9c;
 }
 
 .resume-main {
-	background-color: #f2f2f2;
+	background-color: #974444;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #bdaa9c;
 }
 
 /* Styles for lists in the document */
@@ -47,4 +47,9 @@ p {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+
+.funky-text{
+	color: rgb(255, 255, 255);
 }
