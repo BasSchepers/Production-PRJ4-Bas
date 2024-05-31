@@ -13,7 +13,7 @@ p {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #bdaa9c;
+    background-color: #a79a91;
 }
 
 .resume-main {
@@ -21,7 +21,7 @@ p {
 }
 
 .resume-aside {
-	background-color: #bdaa9c;
+	background-color: #b99276;
 }
 
 /* Styles for lists in the document */
@@ -35,7 +35,7 @@ p {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #bc6729;
 }
 
 .biography-details li, .skill-list li {
@@ -51,5 +51,5 @@ p {
 
 
 .funky-text{
-	color: rgb(255, 255, 255);
+	color: rgb(0, 0, 0);
 }
